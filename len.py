@@ -1,1 +1,2 @@
-len("Python")
+string = len("Python")
+print(string)
