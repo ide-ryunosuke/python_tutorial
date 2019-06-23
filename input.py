@@ -1,3 +1,4 @@
+# ユーザーに入力させる
 age = input("Enter your age:")
 # 整数に変換
 int_age = int(age)
